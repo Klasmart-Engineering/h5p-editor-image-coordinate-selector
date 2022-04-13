@@ -19,9 +19,10 @@
   width: 100%;
   cursor: crosshair;
 }
-.image-coordinate-resizer {
+.imageCoordinateSelector > button.image-coordinate-resizer {
   background: none;
   border: none;
+  font-family: "H5PFontAwesome4";
   padding: 0;
   cursor: pointer;
 }
